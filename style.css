@@ -4,11 +4,13 @@
     padding: 0px;
    }
    #wrapper{
+    padding: 20px;
     width: 950px;
     background-color: silver;
     margin: 0px auto;
    }
    #header{
+    margin-bottom: 20px;
     min-height: 150px;
     background-color: green;
    }
